@@ -36,10 +36,10 @@ CTAs:
   second_CTA_URL: /homesearch/
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- market -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
+  - CTA_image_path: /img/cta-images/002.jpg
+    CTA_title: "Apply for Loan"
+    CTA_text: "Sign In Today for Your Loan Application"
+    CTA_link_text: "Create Account"
     CTA_url: /homevalue/
 
 second_sidebar_CTA:
