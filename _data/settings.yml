@@ -10,8 +10,8 @@ custom_links_new_tab:
     url:
 
 client:
-  name: Dagoberto Castillo
-  title: Licensed Mortgage Loan Originator - "NMLS # 385009"
+  name: Dagoberto Castillo <br> Licensed Mortgage Loan Originator - "NMLS # 385009"
+  title: 
   license_number: NMLS "# 385009"
   about_markdown: |
     Faithful husband & dad. Habitual Walker & reader. Coach & career consultant for Realtors and loan originators. More than 15 years experience in the real estate and mortgage industries. I am your trusted licensed mortgage loan originator in Florida.
@@ -24,7 +24,7 @@ client:
   phone2:
   phone2_type:
   email:
-  url: http://obtainamortgage.com
+  url: http://ObtainAmortgage.com
 
 forms:
   sitekey:
