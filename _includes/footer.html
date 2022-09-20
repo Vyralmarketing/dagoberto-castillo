@@ -20,7 +20,6 @@
 					<a href="tel:1-{{ site.data.settings.client.phone }}">{{ site.data.settings.client.phone }}</a><br />
 					{% endif %}
 					<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
-					<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br />
 				</div>
 
 
@@ -29,11 +28,7 @@
 					<hr class="footer-hr">
 					Dagoberto Castillo - NMLS# 385009<br>
 					NEXA Mortgage, LLC - NMLS# 1660690<br />
-					{% endif %}
-					{% if site.data.settings.client.brokerage != null %}
-					{{site.data.settings.client.brokerage}}<br>
-					{% endif %}
-					&copy;{{ site.time | date: '%Y' }}<br>
+					&copy;{{ site.time | date: '%Y' }<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br />
 					Proudly Brought To You By
 			    <a href="http://getvyral.com" target="_blank">
 						Vyral Marketing</a><br>
