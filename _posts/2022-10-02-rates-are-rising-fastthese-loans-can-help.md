@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Rates Are Rising Fast—These Loans Can Help
+title: Rates Are Rising Fast—These Loan Options Can Help
 date: 2022-10-02 07:00:00
 tags:
   - Home Buyer Tips
-excerpt: 'These three loan options can help buyers tackle rising mortgage rates. '
+excerpt: 'These four loan options can help buyers tackle rising mortgage rates. '
 enclosure:
 pullquote: Each one of these options has pros and cons.
 enclosure_type: video/mp4
@@ -24,4 +24,4 @@ As you may know, mortgage interest rates are rising fast. The Federal Reserve ha
 3. **Short-term mortgages.** About 80% of homebuyers opt for a conventional 30-year fixed-rate mortgage, but that doesn’t mean it’s your only option. Shorter, 10-, 15-, 20-, and 25-year mortgages come with several benefits: Your interest rate will be lower, you’ll pay less total interest over the life of the loan, you’ll accrue equity faster, and you’ll own your home sooner. The main drawback is that your monthly payment will be higher than a 30-year mortgage. However, this is a fantastic way to lower your rate and save money if you have the means.&nbsp;<br>&nbsp;
 4. **A temporary rate buy-down.** With this, borrowers have the opportunity to lower their payments during the initial part of the loan. It can be a great option if you have a credit from the seller or know for a fact that your income will increase over the next few years.<br>​​​​​​
 
-Each one of these options has pros and cons. If you would like to discuss which one may be right for you, please call or email. I'll always make time to take great care of you.
+Each one of these options has pros and cons. If you would like to discuss which one may be right for you, please call or email. I'll always make time to take great care of you and all your referrals\!
